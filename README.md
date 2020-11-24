@@ -1,3 +1,3 @@
 # Text-Analysis
 
-Running topic modeling using R. 
+Running topic modeling using R and Python. 
