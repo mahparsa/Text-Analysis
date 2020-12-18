@@ -3,6 +3,30 @@
 # Introduction to Text Analysis using Python
 ##
 ##
+### ________________________________________________________
+
+## Simple Examples: 
+### string to experiment with: place
+place = "poolhouse"
+
+### Use upper() on place: place_up
+place_up= place.upper()
+
+### Print out place and place_up
+print(place)
+print(place_up)
+
+### Print out the number of p's in place
+print(place.count('p'))
+
+### Print out the number of u's in place
+print(place.count('u'))
+
+### Print out the number of o's in place
+print(place.count('o'))
+
+### ________________________________________________________
+
 ### Regex patterns
 ### ________________________________________________________
 
